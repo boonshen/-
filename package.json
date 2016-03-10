@@ -1,0 +1,17 @@
+{
+  "main": "index.html",
+  "name": "Tsinghua-Web-Helper",
+  "description": "A website helper for student in Tsinghua University",
+  "version": "0.0.1",
+  "author": "Lee Boon Shen <boonshen1@gmail.com>",
+  "window": {
+    "title": "Ñ§ÌÃ¹Ü¼Ò",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": false,
+    "width": 800,
+    "height": 500,
+    "position": "mouse"
+  }
+
+}
