@@ -4,5 +4,7 @@
 Build with NW.js
 ##架构
 native.js + html/css    = web side
+
 nw.js     + html/css    = desktop
+
 nativescript + html/css = app
